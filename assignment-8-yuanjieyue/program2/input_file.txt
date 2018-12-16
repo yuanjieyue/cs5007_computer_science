@@ -1,0 +1,6 @@
+Michael Jordan,1995,30.4,6.6,4.3
+Michael Jordan,1996,29.6,5.9,3.5
+Lebron James,2009,29.7,7.3,8.6
+Larry Bird,1990,19.4,8.5,7.2
+Larry Bird,1993,15.4,7.5,5.2
+Kobe Bryant,1998,20.4,7.2,7.5
